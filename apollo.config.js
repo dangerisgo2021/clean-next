@@ -1,5 +1,5 @@
 module.exports = {
   service: {
-    name: "xion-front-desk-web"
+    name: "YOUR_VALUE_HERE"
   }
 }
